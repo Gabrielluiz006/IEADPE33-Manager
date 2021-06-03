@@ -1,0 +1,13 @@
+com\ieadpe\controller\CongregacaoController.class
+com\ieadpe\service\CongregacaoService.class
+com\ieadpe\service\impl\ObreiroServiceImpl.class
+com\ieadpe\service\EscalaService.class
+com\ieadpe\App.class
+com\ieadpe\model\Obreiro.class
+com\ieadpe\service\impl\CongregacaoServiceImpl.class
+com\ieadpe\model\Escala.class
+com\ieadpe\controller\ObreiroController.class
+com\ieadpe\model\Congregacao.class
+com\ieadpe\service\ObreiroService.class
+com\ieadpe\service\impl\EscalaServiceImpl.class
+com\ieadpe\controller\HomeController.class
